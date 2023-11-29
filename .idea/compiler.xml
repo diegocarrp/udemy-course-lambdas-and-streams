@@ -11,5 +11,8 @@
         <module name="lambda-and-streams" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lambda-and-streams" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
